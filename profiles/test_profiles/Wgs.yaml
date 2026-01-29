@@ -6,8 +6,8 @@ Version: 1.0.0
 
 ApplicationProfiles:
   - ApplicationProfileName: BCLConvertNextera
-    ApplicationProfileVersion: 1.0
+    ApplicationProfileVersion: "~=1.0.0"
 
   - ApplicationProfileName: DragenGermlineIdtWgs
-    ApplicationProfileVersion: 1.0
+    ApplicationProfileVersion: "~=1.0.0"
 
