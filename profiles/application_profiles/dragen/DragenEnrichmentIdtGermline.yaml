@@ -1,11 +1,11 @@
 ---
 ApplicationProfileName: DragenEnrichmentGermline
-ApplicationProfileVersion: 1.0.0
+ApplicationProfileVersion: 1.0.1
 ApplicationType: Dragen
 ApplicationName: DragenEnrichment
 
 Settings:
-  SoftwareVersion: 4.1.23
+  SoftwareVersion: 4.3.16
   AppVersion: 1.2.1
   MapAlignOutFormat: bam
   KeepFastq: true
