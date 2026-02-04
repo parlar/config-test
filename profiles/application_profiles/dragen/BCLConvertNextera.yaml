@@ -7,6 +7,7 @@ ApplicationType: Dragen
 Settings:
   SoftwareVersion: 4.3.16
   FastqCompressionFormat: gzip
+  GenerateFastqcMetrics: true
 
 Data:
   BarcodeMismatchesIndex1: 1
