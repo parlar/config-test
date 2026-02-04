@@ -1,6 +1,6 @@
 ---
 ApplicationProfileName: DragenEnrichmentGermline
-ApplicationProfileVersion: 1.0.1
+ApplicationProfileVersion: 1.0.2
 ApplicationType: Dragen
 ApplicationName: DragenEnrichment
 
@@ -12,7 +12,7 @@ Settings:
 
 Data:
   BedFile: gms560_hg38.BedFile
-  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-8-1667497097-2
+  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-10-r4.0-2
   VariantCallingMode: AllVariantCallers
   GermlineOrSomatic: germline
   AuxNoiseBaselineFile: na

@@ -1,6 +1,6 @@
 ---
 ApplicationProfileName: DragenRna
-ApplicationProfileVersion: 1.0.1
+ApplicationProfileVersion: 1.0.2
 ApplicationName: DragenRna
 ApplicationType: Dragen
 
@@ -12,7 +12,7 @@ Settings:
 
 Data:
   DifferentialExpressionEnable: False
-  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-8-1667497097-2
+  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-10-r4.0-2
   RnaGeneAnnotationFile: na
   RnaPipelineMode: MapAlign
   DownSampleNumReads: false

@@ -1,6 +1,6 @@
 ---
 ApplicationProfileName: DragenGermlineIdtWgs
-ApplicationProfileVersion: 1.0.2
+ApplicationProfileVersion: 1.0.3
 ApplicationType: Dragen
 ApplicationName: DragenGermline
 
@@ -12,7 +12,7 @@ Settings:
   KeepFastq: true
 
 Data:
-  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-8-1667497097-2
+  ReferenceGenomeDir: hg38-alt_masked.cnv.graph.hla.rna-10-r4.0-2
   VariantCallingMode: AllVariantCallers
   QcCoverage1BedFile: na
   QcCoverage2BedFile: na
